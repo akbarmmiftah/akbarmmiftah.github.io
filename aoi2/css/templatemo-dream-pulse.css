@@ -91,15 +91,30 @@ a {
   color: white;
   text-align: center;
   margin: 30px auto 30px;
+
+}
+
+.double-border-1,
+.double-border-2 {
+  border: 1px solid #fff;
+  position: relative;
+  background-color: rgba(0, 0, 0, 0.4);
+
 }
 
 .tm-double-border-1,
 .tm-double-border-2 {
   border: 1px solid #fff;
   position: relative;
+
 }
 
 .tm-double-border-2 {
+  top: 10px;
+  left: 10px;
+}
+
+.double-border-2 {
   top: 10px;
   left: 10px;
 }
