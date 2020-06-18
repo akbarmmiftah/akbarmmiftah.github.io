@@ -29,7 +29,7 @@ a {
 }
 
 .small {
-  font-size: 0.95rem;
+  font-size: 0.7rem;
 }
 
 .tm-color-primary {
@@ -172,9 +172,9 @@ a {
 }
 
 .nav-link {
-  font-size: 1.25rem;
-  padding-top: 12px;
-  padding-bottom: 12px;
+  font-size: 1rem;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .nav-link .tm-white-rect {
@@ -336,7 +336,7 @@ a {
   padding: 1em;
   color: #fff;
   text-transform: uppercase;
-  font-size: 1.25em;
+  font-size: 1em;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
 }
